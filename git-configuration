@@ -1,0 +1,29 @@
+�Ƚ��ļ���
+git init
+
+ git config --global user.name 'sunchongwen'
+$ git config --global user.email '593091614sun@gmail.com'
+
+git branch developer
+
+git checkout branch developer
+git add README.md
+git commit -m "first commit"
+
+git remote add origin https://github.com/sunchongwen/gitDemo.git
+git push -u origin master
+
+git merge developer
+
+git pull
+
+----------------------------------
+
+git init 
+//master  force connect to msater
+ git branch --set-upstream-to=origin/master master  
+//force to pull
+ git pull origin master --allow-unrelated-historie
+git push -u origin master
+
+
