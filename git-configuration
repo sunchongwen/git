@@ -26,4 +26,6 @@ git init
  git pull origin master --allow-unrelated-historie
 git push -u origin master
 
-
+git tag v-biaoqianwancheng
+git push tag v-biaoqianwancheng
+tag match the code in github when u push tag
