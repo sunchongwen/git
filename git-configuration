@@ -14,7 +14,7 @@ git remote add origin https://github.com/sunchongwen/gitDemo.git
 git push -u origin master
 
 加分支
-git checkout developer
+git checkout -b developer
 git push -u origin developer
 git merge developer
 
