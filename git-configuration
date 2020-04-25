@@ -33,3 +33,11 @@ git tag v-biaoqianwancheng
 git push origin v-biaoqianwancheng
 
 tag match the code in github when u push tag
+
+-------------------------------------------------
+create branch
+
+git branch
+git checkout -b rights
+git  branch
+git push -u origin rights
