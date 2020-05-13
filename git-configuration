@@ -1,4 +1,9 @@
 �Ƚ��ļ���
+1
+git remote -v
+git remote add origin https://github.com/yaolu0796/somoplay_vue.git
+
+
 git init
 
  git config --global user.name 'sunchongwen'
