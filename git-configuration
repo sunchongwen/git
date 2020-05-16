@@ -3,6 +3,8 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/sunchongwen/html5.git
 git push -u origin master
+
+setting github page source branch master
 1
 git remote -v
 git remote add origin https://github.com/yaolu0796/somoplay_vue.git
