@@ -39,6 +39,8 @@ git pull
 git init 
 //master  force connect to msater
  git branch --set-upstream-to=origin/master master  
+ --------------------------------------------
+ 强行不相关的空间拉代码 master
 //force to pull
  git pull origin master --allow-unrelated-historie
 git push -u origin master
